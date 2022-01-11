@@ -3,5 +3,5 @@ from .import views
 
 urlpatterns=[
 
-    path('page',views.Tower),
+    path('',views.Tower),
 ]
